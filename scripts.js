@@ -1,4 +1,6 @@
 /* Add your JavaScript to this file */
+/*Received help in parts from a past student who wishes to remain anonymous*/
+
 window.onload = function(){
     var format = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/
     var email = document.getElementById("email");
